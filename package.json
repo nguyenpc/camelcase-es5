@@ -3,7 +3,7 @@
 	"version": "5.3.1",
 	"description": "Convert a dash/dot/underscore/space separated string to camelCase or PascalCase: `foo-bar` → `fooBar`",
 	"license": "MIT",
-	"repository": "sindresorhus/camelcase",
+	"repository": "nguyenpc/camelcase-es5",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
