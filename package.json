@@ -1,5 +1,5 @@
 {
-	"name": "camelcase",
+	"name": "camelcase-es5",
 	"version": "5.3.1",
 	"description": "Convert a dash/dot/underscore/space separated string to camelCase or PascalCase: `foo-bar` → `fooBar`",
 	"license": "MIT",
@@ -17,8 +17,8 @@
 		"build": "babel . --out-dir dist  --ignore node_modules"
 	},
 	"files": [
-		"index.js",
-		"index.d.ts"
+		"dist/index.js",
+		"dist/index.d.ts"
 	],
 	"keywords": [
 		"camelcase",
