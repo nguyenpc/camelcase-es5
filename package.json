@@ -1,6 +1,6 @@
 {
 	"name": "camelcase-es5",
-	"version": "5.3.1",
+	"version": "5.3.1-es5",
 	"description": "Convert a dash/dot/underscore/space separated string to camelCase or PascalCase: `foo-bar` → `fooBar`",
 	"license": "MIT",
 	"repository": "nguyenpc/camelcase-es5",
